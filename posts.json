@@ -52,7 +52,7 @@
       "publishDate": "2026-07-09",
       "readTime": "5 min",
       "featured": false,
-      "published": false,
+      "published": true,
       "body": [
         {
           "type": "p",
