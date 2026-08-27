@@ -330,7 +330,7 @@
       "publishDate": "2026-08-27",
       "readTime": "5 min",
       "featured": false,
-      "published": false,
+      "published": true,
       "body": [
         {
           "type": "p",
